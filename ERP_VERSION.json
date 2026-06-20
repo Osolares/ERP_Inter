@@ -1,0 +1,8 @@
+{
+  "version": "16.10.1",
+  "codename": "PRODUCTOS_CONSOLIDADO",
+  "date": "2026-06-19",
+  "module": "Inventario · Productos",
+  "base": "ERP_Intermotores_v16_9_1_CONSOLIDACION_REAL_INVENTARIO_CATALOGOS",
+  "status": "Sprint incremental con cambios reales en Angular"
+}

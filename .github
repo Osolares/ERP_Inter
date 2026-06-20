@@ -1,0 +1,100 @@
+# ============================
+# ERP Intermotores
+# ============================
+
+# ----------------------------
+# Angular
+# ----------------------------
+frontend/node_modules/
+frontend/.angular/
+frontend/dist/
+frontend/.cache/
+frontend/coverage/
+
+# ----------------------------
+# Python
+# ----------------------------
+backend/.venv/
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+backend/.pytest_cache/
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+logs/
+backend/logs/
+frontend/logs/
+
+# ----------------------------
+# Build
+# ----------------------------
+dist/
+build/
+release/
+
+# ----------------------------
+# VSCode
+# ----------------------------
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# ----------------------------
+# IDE
+# ----------------------------
+.idea/
+
+# ----------------------------
+# Sistema
+# ----------------------------
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ----------------------------
+# Variables
+# ----------------------------
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# ----------------------------
+# Cache
+# ----------------------------
+.cache/
+tmp/
+temp/
+
+# ----------------------------
+# ZIP y respaldos
+# ----------------------------
+ZIP/
+Backups/
+Backup/
+Respaldos/
+*.zip
+*.7z
+*.rar
+
+# ----------------------------
+# Base de datos locales
+# ----------------------------
+*.sqlite
+*.db
+
+# ----------------------------
+# Archivos de prueba
+# ----------------------------
+coverage/
+htmlcov/
+
+# ----------------------------
+# Git
+# ----------------------------
+.gitignore.bak
